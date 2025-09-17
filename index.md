@@ -11,4 +11,7 @@ var myVar = "Hello, world!";
 
 ###### This tests the headers
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
